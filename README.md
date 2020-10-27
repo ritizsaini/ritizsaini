@@ -14,6 +14,9 @@
 <a href="https://www.instagram.com/_ritizz/">
   <img align="left" alt="Ritiz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="mailto: ritizsaini@gmail.com">
+  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 .
 
@@ -23,7 +26,7 @@
 - :hourglass_flowing_sand: Learning ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me: ritizsaini@iitb.ac.in;
+- 📫 How to reach me: ritizsaini@gmail.com;
 - 📝[Resume](https://ritizsaini.github.io/others/vitae.html) <br>
 
 
