@@ -16,9 +16,7 @@
 </a>
 
 
-
-
-
+\\
 
 - :telescope: I'm currently studying Electrical Engineering at IIT Bombay 💻;
 - :hourglass_flowing_sand: Learning ML and DL;
