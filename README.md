@@ -33,6 +33,8 @@
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 - 📫 How to reach me: ritizsaini@gmail.com;
+- ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - 📝[Resume](https://ritizsaini.github.io/others/vitae.html) <br>
 
 
