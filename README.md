@@ -17,11 +17,11 @@
 <a href="mailto: ritizsaini@gmail.com">
   <img align="left" alt="Ritiz's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 <a href="https://t.me/ritizsaini">
   <img align="left" alt="Ritiz's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+.
 
 
 
