@@ -1,5 +1,8 @@
-## Hi 👋, I'm [Ritiz Saini!](https://ritizsaini.github.io) 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
+<h1 align="center"> Hi 👋, I'm [Ritiz Saini!](https://ritizsaini.github.io)</h1>
+<h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
+
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
@@ -25,7 +28,7 @@
 
 
 
-- :telescope: I'm currently studying Electrical Engineering at IIT Bombay 💻;
+- :telescope: I'm currently studying Electrical Engineering at IIT Bombay;
 - :hourglass_flowing_sand: Learning ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
