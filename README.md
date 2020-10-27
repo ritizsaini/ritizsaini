@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Ritiz Saini!</h1>
+<h1 align="center"> Hi 👋, I'm <a href="ritizsaini.github.io">Ritiz Saini!</a></h1>
 <h3 align="center">My high Information Gain may Inspire your Decision Tree!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritizsaini&label=Views&color=blue&style=plastic" alt="ankitwarhe" /> </p>
