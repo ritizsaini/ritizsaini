@@ -4,21 +4,17 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
- <a href="https://dev.to/ankitwarbhe">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ankit's Dev" width="26"/>
+
+<a href="https://twitter.com/RitizSaini">
+  <img align="left" alt="Ritiz Saini | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://twitter.com/ankitwarbhe">
-  <img align="left" alt="Ankit Warbhe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/ritij-saini-234843157/">
+  <img align="left" alt="Ritiz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ankit-warbhe/">
-  <img align="left" alt="Ankit's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.instagram.com/_ritizz/">
+  <img align="left" alt="Ritiz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/ankit.warbhe/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://devfolio.co/@ankitwarbhe/">
-  <img align="left" alt="Ankit's Devfolio" width="26px" src="https://pbs.twimg.com/profile_images/1212398116101472257/VVvZ_m4A_400x400.png"/>
-</a>
+
 
 
 
@@ -38,7 +34,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
 </a>
 <a href="https://github.com/ritizsaini">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitwarbhe&show_icons=true&theme=dark&line_height=30" alt="Ritiz's github stats"/>
 </a>
 
 ⭐️ From [Ritiz Saini](https://github.com/ritizsaini)
