@@ -42,8 +42,8 @@
 <br/>
 
 <a href="https://github.com/ritizsaini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritizsaini&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritizsaini&theme=algolia&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritizsaini&theme=default&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritizsaini&theme=default&layout=compact" />
 </a>
 
 <br/>
