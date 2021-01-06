@@ -27,7 +27,7 @@
 .
 
 
-- :bulb: Co-Founder [CrakX](crakx.in)
+- :bulb: Co-Founder [CrakX](https://crakx.in/)
 - :telescope: I'm currently studying Electrical Engineering at IIT Bombay;
 - :hourglass_flowing_sand: Learning & Experimenting with Deep learning and NLP;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
