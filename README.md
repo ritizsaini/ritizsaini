@@ -35,7 +35,7 @@
 - 📫 How to reach me: ritizsaini@gmail.com;
 - ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-- 📝[Resume](https://ritizsaini.github.io/assets/docs/CV.pdf) <br>
+- 📝 [Resume](https://ritizsaini.github.io/assets/docs/CV.pdf) <br>
 
 
 
