@@ -56,6 +56,9 @@
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
+ 
+<!-- ACTIVITY GRAPH TRACKER -->
+[![ritiz's github activity graph](https://activity-graph.herokuapp.com/graph?username=ritizsaini&theme=react-dark)](https://github.com/ritizsaini/github-readme-activity-graph)
 
 ## Spotify Playing 🎧
 
