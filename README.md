@@ -23,11 +23,15 @@
 <a href="https://t.me/ritizsaini">
   <img align="left" alt="Ritiz's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://www.aurumproptech.in/pulse">
+  <img align="left" alt="Ritiz's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 .
 
 
 - :bulb: Co-Founder [CrakX](https://crakx.in/)
+- Currenty Building: [PropTech Pulse](https://www.aurumproptech.in/pulse)
 - :telescope: I'm currently studying Electrical Engineering at IIT Bombay;
 - :hourglass_flowing_sand: Learning & Experimenting with Deep learning and NLP;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
